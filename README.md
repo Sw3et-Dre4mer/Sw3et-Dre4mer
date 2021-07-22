@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Sw3et-Dre4mer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Sweet Dreamer👋💭
+That’s it for now.
 
 <!---
-Sw3et-Dre4mer/Sw3et-Dre4mer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ここを見る人がいるなんて驚きました！
 --->
